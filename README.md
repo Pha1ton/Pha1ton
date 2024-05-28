@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=STAC2&show_icons=true&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STAC2" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=STAC2" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=STAC2&theme=xcode" /> </div>
+<div align="center"> <img src="https://profile-counter.glitch.me/STAC2/count.svg" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今日长缨在手，何时缚住苍龙？&center=true&font=Roboto&size=27" /></div>
